@@ -23,3 +23,10 @@ A discussion of next generation technologies, especially with regard to software
 
 * [DARPA Seeks to Create Software Systems That Could Last 100 Years](https://www.darpa.mil/news-events/2015-04-08)
 * [Automated Program Repair | December 2019 | Communications of the ACM](https://cacm.acm.org/magazines/2019/12/241055-automated-program-repair/fulltext)
+
+## Quorum and N-Version Computing
+
+* [The Origin of Quorum Systems](http://vukolic.com/QuorumsOrigin.pdf)
+* [Distributed Storage Systems: Data Replication using Quorums](https://blough.ece.gatech.edu/6102/quorums.pdf)
+* [The load, capacity, and availability of quorum systems](https://blog.acolyer.org/2016/10/03/the-load-capacity-and-availability-of-quorum-systems/)
+* [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://www.youtube.com/watch?v=0sdby0R5L8s&t=7m24s) - [Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative](https://cyber.stanford.edu/bpase18) - Good overview of N-Version computing starting at 7:24.
