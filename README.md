@@ -18,3 +18,8 @@ A discussion of next generation technologies, especially with regard to software
 
 * ["Type-Driven Program Synthesis" by Nadia Polikarpova](https://www.youtube.com/watch?v=HnOix9TFy1A)
 * [Commandline Commander: Synquid](http://comcom.csail.mit.edu/comcom/#Synquid) (appears to have been taken offline)
+
+## Program Self-Repair
+
+* [DARPA Seeks to Create Software Systems That Could Last 100 Years](https://www.darpa.mil/news-events/2015-04-08)
+* [Automated Program Repair | December 2019 | Communications of the ACM](https://cacm.acm.org/magazines/2019/12/241055-automated-program-repair/fulltext)
