@@ -13,3 +13,8 @@ A discussion of next generation technologies, especially with regard to software
 * [Coq](https://github.com/coq/coq.git)
 * [Alloy](https://www.csail.mit.edu/research/alloy)
 * [Z3](https://github.com/Z3Prover/z3)
+
+## Full Program Synthesis
+
+* ["Type-Driven Program Synthesis" by Nadia Polikarpova](https://www.youtube.com/watch?v=HnOix9TFy1A)
+* [Commandline Commander: Synquid](http://comcom.csail.mit.edu/comcom/#Synquid) (appears to have been taken offline)
