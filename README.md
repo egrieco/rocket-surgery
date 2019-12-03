@@ -14,6 +14,13 @@ A discussion of next generation technologies, especially with regard to software
 * [Alloy](https://www.csail.mit.edu/research/alloy)
 * [Z3](https://github.com/Z3Prover/z3)
 
+### Isabelle
+
+* [Isabelle](https://isabelle.in.tum.de/)
+* [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19 - YouTube](https://www.youtube.com/watch?v=NfdP6wwjsGk)
+* [What are the strengths and weaknesses of the Isabelle proof assistant compared to Coq? - Stack Overflow](https://stackoverflow.com/questions/30152139/what-are-the-strengths-and-weaknesses-of-the-isabelle-proof-assistant-compared-t)
+* [Solving a puzzle using the Isabelle proof assistant · GitHub](https://gist.github.com/jmoy/59c0ef25196716f1a0f4fd0efae6e099)
+
 ## Full Program Synthesis
 
 * ["Type-Driven Program Synthesis" by Nadia Polikarpova](https://www.youtube.com/watch?v=HnOix9TFy1A)
