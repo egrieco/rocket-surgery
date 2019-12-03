@@ -14,6 +14,16 @@ A discussion of next generation technologies, especially with regard to software
 * [Alloy](https://www.csail.mit.edu/research/alloy)
 * [Z3](https://github.com/Z3Prover/z3)
 
+### TLA+
+
+* [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
+* [Using TLA+ for fun and profit in the development of Elasticsearch - Yannick Welsch - YouTube](https://www.youtube.com/watch?v=qYDcbcOVurc)
+* [Introduction :: Learn TLA+](https://learntla.com/introduction/)
+* [TLA+ model checking made symbolic – the morning paper](https://blog.acolyer.org/2019/11/29/tla-model-checking-made-symbolic/)
+* [Using TLA+ to Model Cascading Failures - Marianne Bellotti - Medium](https://medium.com/@bellmar/using-tla-to-model-cascading-failures-5d1ebc5e4c4f)
+* [Using TLA+ to understand Xen vchan - Thomas Leonard's blog](https://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/)
+* [Practical TLA+ Now Available • Hillel Wayne](https://www.hillelwayne.com/post/practical-tla/)
+
 ### Isabelle
 
 * [Isabelle](https://isabelle.in.tum.de/)
