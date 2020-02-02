@@ -47,3 +47,7 @@ A discussion of next generation technologies, especially with regard to software
 * [Distributed Storage Systems: Data Replication using Quorums](https://blough.ece.gatech.edu/6102/quorums.pdf)
 * [The load, capacity, and availability of quorum systems](https://blog.acolyer.org/2016/10/03/the-load-capacity-and-availability-of-quorum-systems/)
 * [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://www.youtube.com/watch?v=0sdby0R5L8s&t=7m24s) - [Blockchain Protocol Analysis and Security Engineering 2018 | Cyber Initiative](https://cyber.stanford.edu/bpase18) - Good overview of N-Version computing starting at 7:24.
+
+## Further Reading and Resources
+
+* [Hillel Wayne](https://hillelwayne.com/) - Lots of blog posts about TLA+ and Formal Methods
