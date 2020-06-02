@@ -8,6 +8,17 @@ Canonical Locations for this repo are, in order:
 2. [GitLab](https://gitlab.com/egrieco/rocket-surgery)
 3. [GitHub](https://github.com/egrieco/rocket-surgery)
 
+## Why Does Anyone Care?
+
+Formal methods allow us to create High Assurance (essentially "bug-free") software assuming certain conditions are met. We'll save the list of conditions for a future update.
+
+While these methods take more time and skill up front, they allow software to run for far longer periods between failures or security compromises. Potentially forever in a theoretical sense if the hardware could ever be reliable enough to allow that. This is a far cry from today's systems that must be rebooted frequently and patched daily in an effort to stave off attacks.
+
+Some good intro materials for the general public and executives:
+
+* Hacker-Proof Code Confirmed [Quanta Magazine](https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920/) [Reprint in Wired](https://www.wired.com/2016/09/computer-scientists-close-perfect-hack-proof-code/)
+* [DARPA High Assurance Cyber Military Systems (HACMS) MH-6 Little Bird helicopter](https://www.youtube.com/watch?v=VxB-U51__Ss)
+
 ## Program Analysis & Verification
 
 ### KLEE
