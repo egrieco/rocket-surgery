@@ -2,6 +2,12 @@
 
 A discussion of next generation technologies, especially with regard to software and formal methods.
 
+Canonical Locations for this repo are, in order:
+
+1. Keybase.io [team page](keybase://team-page/rocket_surgery), [git sync url](keybase://team/rocket_surgery/rocket-surgery)
+2. [GitLab](https://gitlab.com/egrieco/rocket-surgery)
+3. [GitHub](https://github.com/egrieco/rocket-surgery)
+
 ## Program Analysis & Verification
 
 ### KLEE
