@@ -9,6 +9,14 @@ A discussion of next generation technologies, especially with regard to software
 * [KLEE](https://klee.github.io/)
 * [GitHub - klee/klee: KLEE Symbolic Execution Engine](https://github.com/klee/klee)
 
+### SMACK
+
+* [SMACK Software Verifier and Verification Toolchain](http://smackers.github.io/)
+* [smackers · GitHub](https://github.com/smackers)
+* [smack/projects.md at master · smackers/smack · GitHub](https://github.com/smackers/smack/blob/master/docs/projects.md)
+* [GitHub - alastairreid/smack-play: Experiments in using Smack verification tool with C and Rust](https://github.com/alastairreid/smack-play)
+* [GitHub - smackers/democratizing-software-verification-workshop-2019](https://github.com/smackers/democratizing-software-verification-workshop-2019)
+
 ## Dependent Types
 
 * [LiquidHaskell](http://goto.ucsd.edu:8090/index.html) ([awesome repo](https://github.com/ucsd-progsys/liquidhaskell.git))
