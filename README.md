@@ -2,6 +2,13 @@
 
 A discussion of next generation technologies, especially with regard to software and formal methods.
 
+## Program Analysis & Verification
+
+### KLEE
+
+* [KLEE](https://klee.github.io/)
+* [GitHub - klee/klee: KLEE Symbolic Execution Engine](https://github.com/klee/klee)
+
 ## Dependent Types
 
 * [LiquidHaskell](http://goto.ucsd.edu:8090/index.html) ([awesome repo](https://github.com/ucsd-progsys/liquidhaskell.git))
