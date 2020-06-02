@@ -17,6 +17,11 @@ A discussion of next generation technologies, especially with regard to software
 * [GitHub - alastairreid/smack-play: Experiments in using Smack verification tool with C and Rust](https://github.com/alastairreid/smack-play)
 * [GitHub - smackers/democratizing-software-verification-workshop-2019](https://github.com/smackers/democratizing-software-verification-workshop-2019)
 
+### SeaHorn
+
+* [SeaHorn | A Verification Framework](https://seahorn.github.io/)
+* [SeaHorn · GitHub](https://github.com/seahorn)
+
 ## Dependent Types
 
 * [LiquidHaskell](http://goto.ucsd.edu:8090/index.html) ([awesome repo](https://github.com/ucsd-progsys/liquidhaskell.git))
