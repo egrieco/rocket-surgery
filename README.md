@@ -78,3 +78,4 @@ A discussion of next generation technologies, especially with regard to software
 * [awesome-static-analysis: Static analysis tools for all programming languages, build tools, config files and more.](https://github.com/analysis-tools-dev/static-analysis)
 * [awesome-dynamic-analysis: Dynamic analysis tools for all programming languages, build tools, config files and more.](https://github.com/analysis-tools-dev/dynamic-analysis)
 * [Awesome-Fuzzing: A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.](https://github.com/secfigo/Awesome-Fuzzing)
+* [awesome-program-synthesis: An curated list of papers on program synthesis.](https://github.com/praveenkulkarni1996/awesome-program-synthesis)
