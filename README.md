@@ -71,3 +71,10 @@ A discussion of next generation technologies, especially with regard to software
 ## Further Reading and Resources
 
 * [Hillel Wayne](https://hillelwayne.com/) - Lots of blog posts about TLA+ and Formal Methods
+
+### Related Awesome Repos
+
+* [awesome-provable: A curated set of links to formal methods involving provable code.](https://github.com/awesomo4000/awesome-provable)
+* [awesome-static-analysis: Static analysis tools for all programming languages, build tools, config files and more.](https://github.com/analysis-tools-dev/static-analysis)
+* [awesome-dynamic-analysis: Dynamic analysis tools for all programming languages, build tools, config files and more.](https://github.com/analysis-tools-dev/dynamic-analysis)
+* [Awesome-Fuzzing: A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.](https://github.com/secfigo/Awesome-Fuzzing)
