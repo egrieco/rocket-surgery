@@ -19,6 +19,13 @@ Some good intro materials for the general public and executives:
 * Hacker-Proof Code Confirmed [Quanta Magazine](https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920/) [Reprint in Wired](https://www.wired.com/2016/09/computer-scientists-close-perfect-hack-proof-code/)
 * [DARPA High Assurance Cyber Military Systems (HACMS) MH-6 Little Bird helicopter](https://www.youtube.com/watch?v=VxB-U51__Ss)
 
+## Examples of Formally Verified Software
+
+* [seL4](https://sel4.systems/): A high-assurance, high-performance operating system microkernel.
+* [CertiKOS](https://deepspec.org/entry/Project/CertiKOS): A novel and practical programming infrastructure for constructing large-scale certified system software.
+* [Ironsides](https://ironsides.martincarlisle.com/): An authoritative/recursive DNS server pair that is provably invulnerable to many of the problems that plague other servers.
+* [Muen](https://www.muen.sk/): An x86/64 Separation Kernel for High Assurance.
+
 ## Program Analysis & Verification
 
 ### KLEE
